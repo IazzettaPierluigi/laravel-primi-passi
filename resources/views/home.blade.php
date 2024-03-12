@@ -10,6 +10,9 @@
 
 <body>
     <h1>Hello world!</h1>
+    <br>
+
+    <p>{{ dd($saluto) }}</p>
 </body>
 
 </html>
