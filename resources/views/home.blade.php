@@ -12,7 +12,11 @@
     <h1>Hello world!</h1>
     <br>
 
-    <p>{{ dd($saluto) }}</p>
+    {{-- <p>{{ dd($saluto) }}</p> --}}
+
+    <br>
+
+    <p>{{ $saluto }}</p>
 </body>
 
 </html>
